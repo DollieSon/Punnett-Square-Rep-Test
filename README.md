@@ -1,7 +1,7 @@
 # Punnett-Square-Rep-Test
 Repition Test for a Punnett Square
 How to use:
-1.Insert how many Sequences you have (Ex.4)
+1.Insert how many Sequences you have (Ex.4) \n
 2.Insert The Sequences(Ex.Hh.HH.hh.Hh)
   How to make a table into a list
   1.Copy the seqence table(without the titles just the sequences)
