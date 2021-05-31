@@ -1,6 +1,5 @@
 Loop=int(input("Insert Input:"))
 word=[]
-Wword=""
 seq=""
 rep = False
 print("input Seq:\n")
@@ -16,5 +15,4 @@ while Loop > 0 :
         rep = False
     Loop -=1
 for x in word:
-    Wword+=f"{x}"
-print(word)
+    print(x)
