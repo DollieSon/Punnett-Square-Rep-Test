@@ -1,5 +1,5 @@
 # Punnett-Square-Rep-Test
-##You need to install a python IDE to run, idk what happens without an IDE
+## You need to install a python IDE to run, idk what happens without an IDE  
 Repition Test for a Punnett Square
 How to use:  
 1. Insert how many Sequences you have (Ex.4)   
